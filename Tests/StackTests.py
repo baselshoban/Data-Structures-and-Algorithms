@@ -25,10 +25,10 @@ try:
 	stack.push(e4)
 	assert stack.pop().value == 4
 
-	print("All Test Pass Successfuly")
+	print("All Tests Pass Successfuly")
 
 except AssertionError as e:
-	print("Test Fail")
+	print("Tests Fail")
 except Exception as e:
 	print("An Error Accoured: ")
 	raise e

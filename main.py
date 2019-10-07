@@ -1,8 +1,8 @@
-print("Start LinkedList Test ..")
+print("Start LinkedList Tests ..")
 import Tests.LinkedListTests
 
-print("\nStart Stack Test ..")
+print("\nStart Stack Tests ..")
 import Tests.StackTests
 
-print("\nStart Queue Test ..")
+print("\nStart Queue Tests ..")
 import Tests.QueueTests

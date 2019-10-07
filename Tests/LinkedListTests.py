@@ -38,10 +38,10 @@ try:
 	# Should print 3 now
 	assert ll.get_position(3).value == 3
 
-	print("All Test Pass Successfuly")
+	print("All Tests Pass Successfuly")
 
 except AssertionError as e:
-	print("Test Fail")
+	print("Tests Fail")
 except Exception as e:
 	print("An Error Accoured: ")
 	raise e
