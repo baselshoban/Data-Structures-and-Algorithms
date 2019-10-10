@@ -6,3 +6,6 @@ import Tests.StackTests
 
 print("\nStart Queue Tests ..")
 import Tests.QueueTests
+
+print("\nStart Binary Search Tests ..")
+import Tests.BinarySearchTests
