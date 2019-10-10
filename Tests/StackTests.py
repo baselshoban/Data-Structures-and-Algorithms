@@ -5,6 +5,8 @@ from DataStructures.LinkedList import Element
 from DataStructures.Stack import Stack
 
 try:
+	print("\nStart Stack Tests ..")
+	
 	# Set up some Elements
 	e1 = Element(1)
 	e2 = Element(2)

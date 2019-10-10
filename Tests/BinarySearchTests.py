@@ -4,6 +4,8 @@ sys.path.append("../")
 from Algorithms.BinarySearch import binary_search
 
 try:
+	print("\nStart Binary Search Tests ..")
+	
 	# Set up a haystack
 	test_list = [1,3,9,11,15,19,29]
 	test_val1 = 25
@@ -14,7 +16,7 @@ try:
 
 	# Test exist noodle
 	assert binary_search(test_list, test_val2) == 4
-	
+
 	print("All Tests Pass Successfuly")
 
 except AssertionError as e:

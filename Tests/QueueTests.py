@@ -4,6 +4,8 @@ sys.path.append("../")
 from DataStructures.Queue import Queue
 
 try:
+	print("\nStart Queue Tests ..")
+	
 	# Setup
 	q = Queue(1)
 	q.enqueue(2)

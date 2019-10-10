@@ -4,6 +4,8 @@ sys.path.append("../")
 from DataStructures.LinkedList import LinkedList,Element
 
 try:
+	print("Start LinkedList Tests ..")
+	
 	# Set up some Elements
 	e1 = Element(1)
 	e2 = Element(2)
