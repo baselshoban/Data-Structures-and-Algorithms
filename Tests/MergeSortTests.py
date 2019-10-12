@@ -33,7 +33,7 @@ try:
 	print("All Tests Pass Successfuly")
 
 except AssertionError as e:
-	print("Tests Fails")
+	print("Tests Fail")
 except Exception as e:
 	print("An Error Accoured")
 	raise e
