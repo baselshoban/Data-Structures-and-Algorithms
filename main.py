@@ -8,3 +8,4 @@ import Tests.BinarySearchTests
 import Tests.RecursionTests
 import Tests.BubbleSortTests
 import Tests.MergeSortTests
+import Tests.QuickSortTests
