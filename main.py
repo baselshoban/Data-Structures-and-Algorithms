@@ -2,6 +2,7 @@
 import Tests.LinkedListTests
 import Tests.StackTests
 import Tests.QueueTests
+import Tests.HashTableTests
 
 # Algorithms Tests
 import Tests.BinarySearchTests
